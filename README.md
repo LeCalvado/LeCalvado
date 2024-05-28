@@ -4,5 +4,5 @@
  - I'm studing ![Alura](https://www.alura.com.br) my G
  - Just mewing
 
- - ![](https://tenor.com/oLMoHJqxJnq.gif)
- - ![](https://tenor.com/hJw6ec7op9k.gif)
+![](https://tenor.com/oLMoHJqxJnq.gif)
+![](https://tenor.com/hJw6ec7op9k.gif)
